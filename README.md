@@ -3,3 +3,6 @@ This is a repository for exploring the basics of usin the linux shell and its co
 
 ## Basics
 Explores basic shell commands and their uses
+
+## Permissions
+Explore Linux permissions and other sys admin commands
