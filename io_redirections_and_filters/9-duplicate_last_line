@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -1 iacta >> iacta
+cat iacta | touch -1 >> iacta
