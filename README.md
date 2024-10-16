@@ -6,3 +6,6 @@ Explores basic shell commands and their uses
 
 ## Permissions
 Explore Linux permissions and other sys admin commands
+
+## I/O Redirections
+Explores i/o redirections, filters, and some expansions
