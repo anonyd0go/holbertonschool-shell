@@ -9,3 +9,6 @@ Explore Linux permissions and other sys admin commands
 
 ## I/O Redirections
 Explores i/o redirections, filters, and some expansions
+
+## Init files, Variables, and Expansions
+Explores shell init files, shell variables, and using expansions
