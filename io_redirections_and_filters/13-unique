@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | sort --ignore-case | unique
+cat list | sort --ignore-case | unique -u
