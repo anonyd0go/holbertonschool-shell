@@ -12,3 +12,8 @@ Explores i/o redirections, filters, and some expansions
 
 ## Init files, Variables, and Expansions
 Explores shell init files, shell variables, and using expansions
+
+### Link to article about shell expansions
+
+https://www.linkedin.com/pulse/basic-shell-expansions-diego-diaz-florez-hkb7e
+
